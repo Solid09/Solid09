@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Solid09
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Web Development
